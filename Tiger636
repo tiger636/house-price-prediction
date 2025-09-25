@@ -1,0 +1,63 @@
+# 🏡 Immobilienpreis-Vorhersage mit Machine Learning
+
+Dieses Projekt sagt den Verkaufspreis von Immobilien anhand ausgewählter Merkmale voraus.  
+Das Dashboard wurde mit **Streamlit** erstellt und kann interaktiv genutzt werden.
+
+## 🚀 Online-Version
+[Hier klicken, um das Dashboard zu starten](DEIN-STREAMLIT-LINK)
+
+## 📂 Projektstruktur
+- app.py → Haupt-App mit Streamlit
+- requirements.txt → Abhängigkeiten
+- train.csv → Beispiel-Datensatz
+
+## ⚙️ Lokale Installation
+```bash
+git clone https://github.com/DEINNAME/house-price-prediction.git
+cd house-price-prediction
+pip install -r requirements.txt
+streamlit run app.py
+# 🏡 Immobilienpreis-Vorhersage mit Machine Learning
+
+Dieses Projekt sagt den **Verkaufspreis von Immobilien** anhand ausgewählter Merkmale voraus.  
+Das Modell basiert auf einem **Random Forest Regressor** und wird über ein **Streamlit-Dashboard** interaktiv nutzbar gemacht.
+
+---
+
+## 🚀 Online-Version
+(Sobald du das Repo auf Streamlit Cloud deployt hast, kannst du hier den Link einfügen)  
+👉 Beispiel: `https://deinname-house-price-prediction.streamlit.app`
+
+---
+
+## 📂 Projektstruktur
+- `app.py` → Haupt-App mit Streamlit  
+- `requirements.txt` → Abhängigkeiten (Libraries)  
+- `train.csv` → Beispieldatensatz (von Kaggle: House Prices – Advanced Regression Techniques)  
+- `README.md` → Projektbeschreibung  
+
+---
+
+## ⚙️ Lokale Installation
+
+Falls du das Projekt lokal ausführen willst:
+
+```bash
+# Repository klonen
+git clone https://github.com/tiger636/house-price-prediction.git
+cd house-price-prediction
+
+# Abhängigkeiten installieren
+pip install -r requirements.txt
+
+# Streamlit starten
+streamlit run app.py
+
+
+---
+
+👉 Lade diese Datei als `README.md` hoch (über **Add file → Create new file** oder beim Upload mit den anderen Dateien).  
+
+Willst du, dass ich dir jetzt auch gleich die **requirements.txt** als fertige Datei hier schreibe, damit du sie einfach hochladen kannst?
+
+
